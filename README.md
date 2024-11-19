@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrbeast500
 - 👀 I’m interested in: hacks and begineer coding
 - 🌱 I’m currently learning: 6th grade
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on: hacks 
 - 📫 How to reach me: just chat in github
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Jacknjelify
